@@ -1,0 +1,16 @@
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\bin\Debug\net9.0-windows\Step1.exe
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\bin\Debug\net9.0-windows\Step1.deps.json
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\bin\Debug\net9.0-windows\Step1.runtimeconfig.json
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\bin\Debug\net9.0-windows\Step1.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\bin\Debug\net9.0-windows\Step1.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.Form1.resources
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.csproj.GenerateResource.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.AssemblyInfoInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.AssemblyInfo.cs
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\refint\Step1.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\Step1.genruntimeconfig.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task5\Step1\obj\Debug\net9.0-windows\ref\Step1.dll
